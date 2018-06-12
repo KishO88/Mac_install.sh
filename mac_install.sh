@@ -13,13 +13,13 @@ brew install mysql
 brew install composer
 brew install tree
 brew install sourcekitten
-brew install swiftlint
-brew install swiftformat
-brew install libswiften
-brew install libswiftnav
-brew install swiftgen
-brew install swift
-brew install cocoapods
+# brew install swiftlint
+# brew install swiftformat
+# brew install libswiften
+# brew install libswiftnav
+# brew install swiftgen
+# brew install swift
+# brew install cocoapods
 
 brew tap phinze/cask
 brew install cask
@@ -47,8 +47,8 @@ brew cask install phpstorm
 brew cask install atom
 brew cask install github
 brew cask install appcode
-brew cask install swift
-brew cask install cocoapods-app
+# brew cask install swift
+# brew cask install cocoapods-app
 brew cask install android-studio
 brew cask install virtualbox
 brew cask install firefox

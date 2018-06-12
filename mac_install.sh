@@ -44,6 +44,7 @@ brew cask install java8
 # Development
 echo Install Dev Apps
 brew cask install phpstorm
+brew cask install webstorm
 brew cask install atom
 brew cask install github
 brew cask install appcode

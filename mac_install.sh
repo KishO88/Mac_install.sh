@@ -55,6 +55,7 @@ brew cask install virtualbox
 brew cask install firefox
 brew cask install slack
 brew cask install sublime-text
+brew cask install filezilla
 
 # Google Slavery
 echo Install Google Apps | Chrome not included cause of 1Password Plugin
